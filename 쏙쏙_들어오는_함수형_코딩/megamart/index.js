@@ -1,11 +1,11 @@
-let shoppingCartTotal = 0;
-let tax = 0;
-
 const BUY_BUTTONS = [
 	{ name: 'pen', price: 3 },
 	{ name: 'shoe', price: 5 },
 	{ name: 't-shirt', price: 10 },
 ];
+
+let shoppingCartTotal = 0;
+let tax = 0;
 
 const shoppingCart = [];
 
